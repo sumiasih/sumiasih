@@ -29,7 +29,7 @@ I work with a variety of technologies and tools. Here are a few that I frequentl
 
 I’m always open to connecting! You can reach me through the following:
 
-- 📧 Email: [sumiasih@example.com](sumiasih.2020207209085@student.umpri.ac.id)
+- 📧 Email: [sumiasih@example.com](sumiasih2020207209085@gmail.com)
 - 🌍 Website: [www.sumiasih.com](http://www.sumiasih.com)
 - 🐦 Twitter: [@sumiasih_dev](https://twitter.com/sumiasih_dev)
 - 💼 LinkedIn: [linkedin.com/in/sumiasih](https://www.linkedin.com/in/sumiasih)
